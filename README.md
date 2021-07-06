@@ -1,2 +1,2 @@
 # my-golang-repo
-this repository contained all the stuff that i need to learn golang 
+this repository contains all the stuff that i need to learn golang 
